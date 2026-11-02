@@ -1,0 +1,15 @@
+{
+  "seed": 20261102,
+  "counts": {
+    "Common": 1667,
+    "Uncommon": 833,
+    "Rare": 500,
+    "Epic": 200,
+    "Legendary": 100,
+    "Mythic": 33
+  },
+  "total": 3333,
+  "contract": "0x4f207b0Fc332580328053306aD51e04BFD62E56C",
+  "token1": "Common",
+  "token2": "Common"
+}
