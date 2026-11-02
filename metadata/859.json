@@ -1,7 +1,7 @@
 {
   "name": "VERDANTH #859",
   "description": "Verdanth is a journey into a living ancient forest. Each NFT is a spirit of the woods.",
-  "image": "PLACEHOLDER_BASEURI/images/common.svg",
+  "image": "https://verdanth.vercel.app/images/common.svg",
   "attributes": [
     {
       "trait_type": "Rarity",
