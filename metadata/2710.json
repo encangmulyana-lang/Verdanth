@@ -1,0 +1,11 @@
+{
+  "name": "VERDANTH #2710",
+  "description": "Verdanth is a journey into a living ancient forest. Each NFT is a spirit of the woods.",
+  "image": "PLACEHOLDER_BASEURI/images/rare.svg",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}
